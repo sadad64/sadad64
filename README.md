@@ -21,7 +21,7 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 ### 🔨 My Projects and now developing...
 -----
 + **Python** - OPEN API based Reservation Lower Bus Project <br>
-+ **Javascript** / Django - Book Search and record website, developing Front-End <br>
++ **Javascript / Django** - Book Search and record website, developing Front-End <br>
 + **Raspberry Pi** - Pydio Cloud Project <br>
 + **Raspberry Pi** - Object Recognition Project using OpenCV, DarkNet YOLO <br>
 ##### (Now developing...)
