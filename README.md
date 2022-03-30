@@ -32,7 +32,7 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 ##### (Now developing...)
 + **Node.js / Sqlite / Electron** - Javascript based local text editor
 
-And I'm now learning in UMC.
+And I'm now learning in UMC node.js track
 
 <!--
 **sadad64/sadad64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
