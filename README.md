@@ -19,6 +19,7 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=Sqlite&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Raspberrypi-A22846?style=flat-square&logo=Raspberrypi&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JAVA-A80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 </div>
 <br>
 <br>
