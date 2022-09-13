@@ -22,20 +22,20 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
   <img src="https://img.shields.io/badge/JAVA-A80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 </div>
 <br>
-<br>
 
 ### 🔨 My Projects and now developing...
 -----
+## Main Project
 + **Python** - OPEN API based Reservation Lower Bus Project <br>
++ **HTML / CSS / Javascript / Wiki Engine** - World History Wiki (used Dokuwiki Engine) <br>
 + **Javascript / Django** - Book Search and record website, developing Front-End <br>
 + **Raspberry Pi** - Pydio Cloud Project <br>
 + **Raspberry Pi** - Object Recognition Project using OpenCV, DarkNet YOLO <br>
++ **Node.js** - Completion node.js track in UMC (2022.07)
++ **Node.js / MySQL** - LIBROG Server programming and Project leader (2022.06 ~ 2022.09) <br>
+
 ##### (Now developing...)
 + **Node.js / Sqlite / Electron** - Javascript based local text editor
-
-And I'm now learning in UMC node.js track.
-
-Currently, I'm leading a Book Recording App 'LIBROG' project in UMC.
 
 <!--
 **sadad64/sadad64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
