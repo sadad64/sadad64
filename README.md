@@ -32,7 +32,7 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 + **Raspberry Pi** - Pydio Cloud Project <br>
 + **Raspberry Pi** - Object Recognition Project using OpenCV, DarkNet YOLO <br>
 + **Node.js** - Completion node.js track in UMC (2022.07)
-+ **Node.js / MySQL** - LIBROG Server programming and Project leader (2022.06 ~ 2022.09) <br>
++ **Node.js / Express.js / MySQL** - LIBROG Server programming and Project leader (2022.06 ~ 2022.09) <br>
 
 ##### (Now developing...)
 + **HTML / CSS / Javascript / Jquery** - Tistory Custom Skin Editing
