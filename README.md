@@ -35,9 +35,10 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 + **Node.js** - Completion node.js track in UMC (2022.07)
 + **Node.js / Express.js / MySQL** - LIBROG Server programming and Project leader (2022.06 ~ 2022.09) <br>
 
-##### (Now developing...)
+
+### Now developing...
 + **HTML / CSS / Javascript / Jquery** - Tistory Custom Skin Editing
-+ **Node.js / Sqlite / Electron** - Javascript based local text editor
++ **Node.js / Sqlite / Electron** - Javascript based local text editor (2022.02 ~ 04 / Again as soon as possible..!)
 
 <!--
 **sadad64/sadad64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
