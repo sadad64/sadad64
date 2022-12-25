@@ -26,7 +26,7 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 
 ### 🔨 My Projects and now developing...
 -----
-## Main Project
+## 👏 Main Project
 + **Python** - OPEN API based Reservation Lower Bus Project <br>
 + **HTML / CSS / Javascript / Wiki Engine** - World History Wiki (used Dokuwiki Engine) <br>
 + **Javascript / Django** - Book Search and record website, developing Front-End <br>
@@ -40,7 +40,11 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 ### Now developing...
 + **HTML / CSS / Javascript / Jquery** - Tistory Custom Skin Editing
 + **Node.js / Sqlite / Electron** - Javascript based local text editor (2022.02 ~ 04 / Again as soon as possible..!)
+<br>
 
+
+## ✨ Mini Project
++ **Node.js** - GPT-3 Chatbot
 <!--
 **sadad64/sadad64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
