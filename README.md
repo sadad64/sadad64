@@ -39,7 +39,7 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 
 ### Now developing...
 + **HTML / CSS / Javascript / Jquery** - Tistory Custom Skin Editing
-+ **Node.js / Sqlite / Electron** - Javascript based local text editor (2022.02 ~ 04 / Again as soon as possible..!)
++ **Node.js / Sqlite / Electron** - Javascript based local text editor (2022.02 ~ Temporary canceled.)
 <br>
 
 
