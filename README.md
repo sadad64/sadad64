@@ -37,8 +37,6 @@ Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany,
 </div>
 <br>
 
-### 🔨 My Projects and now developing...
------
 ## 👏 Main Project
 + **Python** - OPEN API based Reservation Lower Bus Project <br>
 + **HTML / CSS / Javascript / Wiki Engine** - World History Wiki (used Dokuwiki Engine) <br>
@@ -48,6 +46,11 @@ Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany,
 + **Node.js** - Completion node.js track in UMC (2022.07)
 + **Node.js / Express.js / MySQL** - LIBROG Server programming and Project leader (2022.06 ~ 2022.09) <br>
 + **JAVA** - BINGO GAME with Swing UI (2022.12) <br>
+
+<br>
+
+## ✨ Mini Project
++ **Node.js** - GPT-3 Chatbot
 
 <br>
 
@@ -63,8 +66,7 @@ Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany,
 <br>
 
 
-## ✨ Mini Project
-+ **Node.js** - GPT-3 Chatbot
+
 <!--
 **sadad64/sadad64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
