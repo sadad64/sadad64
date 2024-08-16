@@ -10,7 +10,7 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 
 ### Experience matters
 + Jangan-gu Health Center internship (2023. 7. 3. ~ 7. 28.) <br>
-+ Internship in Gunpo Urban Developement Corporation (2024. 06. 17. ~ 11. 15.) <br>
++ Internship in Gunpo Urban Development Corporation (2024. 06. 17. ~ 11. 15.) <br>
 
 ### The places I've been to...
 Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany, Hongkong, USA, Canada
