@@ -1,9 +1,22 @@
-### 😆 Introduce Myself...
--------
-I'm attending Konkuk University, Management Of Technology. I'm a business student who is interested in development. <br>
+## 😆 Introduce Myself...
+### I'm attending Konkuk University, Management Of Technology. I'm a business student who is interested in development. <br>
 Especially, I'm interested in Javascript, Node.js and C++. Look forward to your kind cooperation :)
 <br>
 <br>
+<br>
+### Educational background
++ 🇰🇷 **Konkuk University 🎓 Mangement Of Technology 22** <br>
++ 🇨🇮 **University College Cork** (2023.01.09 ~ 02.03) <br>
++ 🇨🇦 **Seneca College** (2024.01.05 ~ 02.23) <br>
+
+<br>
+
+### Experience matters
++ Jangan-gu Health Center internship (2023. 7. 3. ~ 7. 28.) <br>
++ Internship in Gunpo Urban Developement Corporation (2024. 06. 17. ~ 11. 15.) <br>
+<br>
+
+
 ### 💡 I'm interested in...
 ------
 <div align = "center">
@@ -36,11 +49,15 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 + **Node.js / Express.js / MySQL** - LIBROG Server programming and Project leader (2022.06 ~ 2022.09) <br>
 + **JAVA** - BINGO GAME with Swing UI (2022.12) <br>
 
-### Now developing
+<br>
+
+### ✅ Now developing
 + **Python / HuggingFace** - Local llm model and machine learning environment (2024.07.29 ~ )
 + **JAVA** - CLI Rogue-like game (2024.08.15 ~ )
 
-### Stop developing
+<br>
+
+### ⛔️ Stop developing
 + **HTML / CSS / Javascript / Jquery** - Tistory Custom Skin Editing (Stopped All steps due to personal reasons)
 + **Node.js / Sqlite / Electron** - Javascript based local text editor (2022.02 ~ Temporary canceled.)
 <br>
