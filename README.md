@@ -3,19 +3,19 @@
 Especially, I'm interested in Javascript, Node.js and C++. Look forward to your kind cooperation :)
 <br>
 <br>
-<br>
 ### Educational background
 + 🇰🇷 **Konkuk University 🎓 Mangement Of Technology 22** <br>
 + 🇨🇮 **University College Cork** (2023.01.09 ~ 02.03) <br>
 + 🇨🇦 **Seneca College** (2024.01.05 ~ 02.23) <br>
 
-<br>
-
 ### Experience matters
 + Jangan-gu Health Center internship (2023. 7. 3. ~ 7. 28.) <br>
 + Internship in Gunpo Urban Developement Corporation (2024. 06. 17. ~ 11. 15.) <br>
-<br>
 
+### The places I've been to...
+Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany, Hongkong, USA, Canada
+
+<br>
 
 ### 💡 I'm interested in...
 ------
