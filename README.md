@@ -1,6 +1,6 @@
 ## 😆 Introduce Myself...
-### I'm attending Konkuk University, Management Of Technology. I'm a business student who is interested in development. <br>
-Especially, I'm interested in Javascript, Node.js and C++. Look forward to your kind cooperation :)
+### I'm attending Konkuk University, Management Of Technology.
+I'm a business student who is interested in development. Especially, I'm interested in Javascript, Node.js and C++. Look forward to your kind cooperation :)
 <br>
 <br>
 ### Educational background
