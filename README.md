@@ -51,7 +51,7 @@ Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany,
 
 ## ✨ Mini Project
 + **Node.js** - GPT-3 Chatbot
-+ **Javascript** - Google Docs Extention: Text counter for writers
++ **Javascript** - Google Docs Extension: Text counter for writers
 
 <br>
 
