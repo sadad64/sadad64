@@ -34,11 +34,14 @@ Especially, I'm interested in Javascript, Node.js and C++. Look forward to your 
 + **Raspberry Pi** - Object Recognition Project using OpenCV, DarkNet YOLO <br>
 + **Node.js** - Completion node.js track in UMC (2022.07)
 + **Node.js / Express.js / MySQL** - LIBROG Server programming and Project leader (2022.06 ~ 2022.09) <br>
-+ **JAVA** - BINGO GAME using Swing UI (2022.12) <br>
++ **JAVA** - BINGO GAME with Swing UI (2022.12) <br>
 
+### Now developing
++ **Python / HuggingFace** - Local llm model and machine learning environment (2024.07.29 ~ )
++ **JAVA** - CLI Rogue-like game (2024.08.15 ~ )
 
-### Now developing...
-+ **HTML / CSS / Javascript / Jquery** - Tistory Custom Skin Editing
+### Stop developing
++ **HTML / CSS / Javascript / Jquery** - Tistory Custom Skin Editing (Stopped All steps due to personal reasons)
 + **Node.js / Sqlite / Electron** - Javascript based local text editor (2022.02 ~ Temporary canceled.)
 <br>
 
