@@ -7,11 +7,18 @@ I'm a business student who is interested in development. Especially, I'm interes
 + 🇰🇷 **Konkuk University 🎓 Mangement Of Technology 22** <br>
 + 🇨🇮 **University College Cork** (2023.01.09 ~ 02.03) <br>
 + 🇨🇦 **Seneca College** (2024.01.05 ~ 02.23) <br>
-
+<br>
+<br>
+### Awards and Honors:
++ Best Paper Award, 2024 Spring Conference of the Korea Entrepreneurship Society (2024)
+  Paper: "Korean Economy and Venture Startups - Focusing on Fintech Companies in Korea, USA, UK, Germany, and the Middle East"
+<br>
+<br>
 ### Experience matters
 + Jangan-gu Health Center internship (2023. 7. 3. ~ 7. 28.) <br>
 + Internship in Gunpo Urban Development Corporation (2024. 06. 17. ~ 11. 15.) <br>
-
+<br>
+<br>
 ### The places I've been to...
 Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany, Hongkong, Macau, USA, Canada
 
@@ -27,7 +34,7 @@ Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany,
 - Canada Toronto, Ottawa, Montreal, Québec
 
 <br>
-
+<br>
 ### 💡 I'm interested in...
 ------
 <div align = "center">
@@ -68,7 +75,8 @@ Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany,
 
 ### ✅ Now developing
 + **Python / HuggingFace** - Local llm model and machine learning environment (2024.07.29 ~ )
-+ **JAVA** - CLI Rogue-like game (2024.08.15 ~ )
++ **JAVA** - CLI Rogue-like game with local llm model (2024.08.15 ~ )
++ **HTML / CSS / Javascript / Liquid** - Github.io Blog (2024.09.21 ~ )
 
 <br>
 
