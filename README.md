@@ -13,7 +13,18 @@ I'm a business student who is interested in development. Especially, I'm interes
 + Internship in Gunpo Urban Development Corporation (2024. 06. 17. ~ 11. 15.) <br>
 
 ### The places I've been to...
-Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany, Hongkong, USA, Canada
+Saipan, China, Japan, Taiwan, France, Ireland, United Kingdom, Belgium, Germany, Hongkong, Macau, USA, Canada
+
+- China Shanxi
+- Japan Himeji, Osaka, Kyoto, Nara
+- Taiwan Taipei
+- France Paris
+- Ireland Cork, Dublin, Galway, Kinsale, Cobh
+- United Kingdom London, Brighton
+- Belgium Brussels
+- Germany Frankfurt am Main, Köln
+- United States New York, New Jersey, Chicago
+- Canada Toronto, Ottawa, Montreal, Québec
 
 <br>
 
